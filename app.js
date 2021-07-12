@@ -1,6 +1,6 @@
 const livros = require('./database')
 
-// pegar input de pessoa usuária por categoria
+// pegar input de usuária por categoria
 
 // Se for SIM, mostra as categorias disponíveis, pergunta qual ela escolhe
 
